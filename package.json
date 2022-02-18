@@ -1,0 +1,16 @@
+{
+  "name": "codio-csv-download",
+  "version": "1.0.0",
+  "description": "Example of using codio API to download",
+  "main": "index.js",
+  "repository": "https://github.com/ksimuk/codio-csv-download",
+  "author": "Max",
+  "license": "MIT",
+  "dependencies": {
+    "codio-api-js": "^0.5.1",
+    "dotenv": "^16.0.0"
+  },
+  "scripts": {
+    "export": "node src/index.js"
+  }
+}
